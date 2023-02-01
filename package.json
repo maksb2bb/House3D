@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "three": "^0.149.0"
+  },
+  "name": "threejs_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
